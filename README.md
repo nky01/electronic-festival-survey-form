@@ -1,4 +1,4 @@
 # electronic-festival-survey-form
 Survey form for festival feedback, built with HTML and CSS
 
-View demo: https://electronic-festival-survey-form.netlify.app/
+<a href="https://electronic-festival-survey-form.netlify.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
